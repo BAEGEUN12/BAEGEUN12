@@ -1,6 +1,6 @@
 ## My name is Bae Geun-ung, and I am 23 years old.
-##I am currently studying Computer Engineering at Yeungnam University,
-##and I live in Daegu.
+## I am currently studying Computer Engineering at Yeungnam University,
+## and I live in Daegu.
 
 
 
