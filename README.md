@@ -1,4 +1,13 @@
-## Hi there 👋
+## My name is Bae Geun-ung, and I am 23 years old.
+##I am currently studying Computer Engineering at Yeungnam University,
+##and I live in Daegu.
+
+
+
+
+
+
+
 
 <!--
 **BAEGEUN12/BAEGEUN12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
