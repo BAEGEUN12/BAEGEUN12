@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Bae Geun-ung**
+#  Hello, I'm **Bae Geun-ung**
 
 🎓 Computer Engineering Student
 🏫 Yeungnam University
@@ -15,7 +15,7 @@
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 * **Languages**: C, C++, Python, Java
 * **Tools**: Git, GitHub, VS Code
@@ -29,7 +29,7 @@
 
 ---
 
-## 📫 Contact
+##  Contact
 
 * GitHub: https://github.com/BAEGEUN12
 
