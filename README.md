@@ -6,12 +6,12 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 💻 Passionate about software development and problem solving
-* 🌱 Currently learning backend & system fundamentals
-* 📈 Interested in data analysis and financial markets
-* 🛠️ Continuously building projects to improve my skills
+*  Passionate about software development and problem solving
+*  Currently learning backend & system fundamentals
+*  Interested in data analysis and financial markets
+*  Continuously building projects to improve my skills
 
 ---
 
@@ -35,6 +35,6 @@
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
-> I enjoy combining technology with real-world problem solving 🚀
+> I enjoy combining technology with real-world problem solving 
