@@ -1,25 +1,40 @@
-## My name is Bae Geun-ung, and I am 23 years old.
-## I am currently studying Computer Engineering at Yeungnam University,
-## and I live in Daegu.
+# 👋 Hello, I'm **Bae Geun-ung**
 
+🎓 Computer Engineering Student
+🏫 Yeungnam University
+📍 Daegu, South Korea
 
+---
 
+## 🚀 About Me
 
+* 💻 Passionate about software development and problem solving
+* 🌱 Currently learning backend & system fundamentals
+* 📈 Interested in data analysis and financial markets
+* 🛠️ Continuously building projects to improve my skills
 
+---
 
+## 🧰 Tech Stack
 
+* **Languages**: C, C++, Python, Java
+* **Tools**: Git, GitHub, VS Code
+* **Currently Learning**: Networking, Algorithms, Backend Development
 
-<!--
-**BAEGEUN12/BAEGEUN12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📌 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 Check out my repositories below 👇
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/BAEGEUN12
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy combining technology with real-world problem solving 🚀
